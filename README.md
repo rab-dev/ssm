@@ -1,2 +1,3 @@
-# ssm
-Simple Secrets Manager
+# Simple Secrets Manager
+
+Notes on creating a simple secrets manager.
